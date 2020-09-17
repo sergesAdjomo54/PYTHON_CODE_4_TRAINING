@@ -1,0 +1,46 @@
+java.class.path: eclipsito.jar;.
+java.home: E:\tools\Java\jre.8.0_231
+java.ext.dirs: E:\tools\Java\jre.8.0_231\lib\ext;C:\Windows\Sun\Java\lib\ext
+java.io.tmpdir: C:\Users\james\AppData\Local\Temp\
+java.runtime.version: 1.8.0_231-b11
+java.vendor: Oracle Corporation
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor: Oracle Corporation
+java.vm.version: 25.231-b11
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+sun.java.command: org.bardsoftware.eclipsito.Boot ganttproject-eclipsito-config.xml -log
+user.country: CM
+user.dir: C:\Program Files (x86)\GanttProject-2.6
+user.home: C:\Users\james
+user.language: fr
+user.timezone: Africa/Luanda
+
+Creating main frame...
+1. loading look'n'feels
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+2. loading options
+3. creating menus...
+4. creating views...
+5. calculating size and packing...
+6. changing language ...
+7. changing look'n'feel ...
+8. finalizing...
+Main frame created
+Splash closed
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+juin 04, 2020 10:23:30 PM net.sourceforge.ganttproject.GPLogger log
+INFOS: [GanttOptions] save(): finished!!
+no editor for column=0 class=interface javax.swing.Icon
+no editor for column=1 class=interface javax.swing.Icon
+no editor for column=2 class=interface javax.swing.Icon
+no editor for column=0 class=interface javax.swing.tree.TreeNode
+juin 04, 2020 10:23:46 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
+INFOS: Eclipsito platform is shut down.

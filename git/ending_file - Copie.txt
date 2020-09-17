@@ -1,0 +1,6 @@
+You should
+see this
+text.
+END
+but not
+this text.

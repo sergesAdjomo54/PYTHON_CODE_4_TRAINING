@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><ganttproject-options>
+    <colors resources="#8cb6ce" resourcesOverload="#e53232" resourcesUnderload="#32e532" weekEnd="#808080" daysOff="#e6ff2b"/>
+    <geometry x="-9" y="-9" width="1938" height="1098"/>
+    <toolBar position="0" icon-size="16" show="0"/>
+    <statusBar show="true"/>
+    <export name="true" complete="true" border3d="false" relations="true"/>
+    <csv-export>
+        <csv-general fixed="false" separatedChar="," separatedTextChar="&quot;"/>
+        <csv-resources id="true" name="true" mail="true" phone="true" role="true"/>
+    </csv-export>
+    <view id="csv-export">
+        <field id="tpd10"/>
+        <field id="tpd3"/>
+        <field id="tpd4"/>
+        <field id="tpd5"/>
+        <field id="tpd6"/>
+        <field id="tpd7"/>
+        <field id="tpd8"/>
+        <field id="tpd9"/>
+        <field id="tpd11"/>
+        <field id="webLink"/>
+        <field id="resources"/>
+        <field id="notes"/>
+    </view>
+    <automatic-launch value="false"/>
+    <lockdavminutes value="240"/>
+    <xsl-dir dir="file:/C:/Program Files (x86)/GanttProject-2.6/plugins/net.sourceforge.ganttproject/data/resources/xslt"/>
+    <xsl-fo file="file:/C:/Program Files (x86)/GanttProject-2.6/plugins/net.sourceforge.ganttproject/data/resources/xslfo/ganttproject.xsl"/>
+    <working-dir dir="C:\Users\james"/>
+    <files/>
+    <font category="menu" spec="Dialog-plain-12"/>
+    <font category="chart-main" spec="SansSerif-plain-10"/>
+    <roles roleset-name="Default">
+        <role id="0" name="Non défini"/>
+        <role id="1" name="Chef de projet"/>
+    </roles>
+    <roles roleset-name="SoftwareDevelopment">
+        <role id="2" name="Développeur"/>
+        <role id="3" name="Editeur de doc"/>
+        <role id="4" name="Testeur"/>
+        <role id="5" name="Graphiste"/>
+        <role id="6" name="Traducteur"/>
+        <role id="7" name="Packageur"/>
+        <role id="8" name="Analyste"/>
+        <role id="9" name="Web Designer"/>
+        <role id="10" name="Pas de rôle spécifique"/>
+    </roles>
+    <option id="ui.language" value="fr"/>
+    <option id="ui.ui.dateFormat.switch" value="true"/>
+    <option id="ui.ui.dateFormat.short" value="dd/MM/yy"/>
+    <option id="ui.ui.dateFormat.sample" value="04/06/20"/>
+    <option id="ui.ui.appFontSize" value="0"/>
+    <option id="ganttChartDefaults.taskNamePrefix" value="tâche"/>
+    <option id="ganttChartDefaults.taskCopyNamePrefix" value="{0}_{1}"/>
+    <option id="ganttChartDefaults.taskDefaultColor" value="#8cb6ce"/>
+    <option id="ganttChartDefaults.dependencyDefaultHardness" value="Strong"/>
+    <option id="ganttChartGridDetails.showTodayLine" value="true"/>
+    <option id="ganttChartGridDetails.showProjectDates" value="true"/>
+    <option id="timelineLabels.timeline.showMilestones" value="true"/>
+    <option id="ganttChartDetails.taskLabelUp" value="name"/>
+    <option id="ganttChartDetails.taskLabelDown" value="length"/>
+    <option id="ganttChartDetails.taskLabelLeft" value="coordinator"/>
+    <option id="ganttChartDetails.taskLabelRight" value="taskDates"/>
+    <option id="resourceChartColors.resourceChartColors.normalLoad" value="#8cb6ce"/>
+    <option id="resourceChartColors.resourceChartColors.overLoad" value="#e53232"/>
+    <option id="resourceChartColors.resourceChartColors.underLoad" value="#32e532"/>
+    <option id="resourceChartColors.resourceChartColors.dayOff" value="#e6ff2b"/>
+    <option id=".working-dir" value="C:\Users\james"/>
+    <option id=".last-webdav-document" value=""/>
+    <option id=".webdav.lockTimeout" value="-1"/>
+    <option id="webdav.servers"/>
+    <option id="webdav.lockRelease" value="true"/>
+    <option id="webdav.proxy" value=""/>
+    <option id="updateRss.check" value="UNDEFINED"/>
+    <option id="updateRss.lastCheck" value="2020-06-04"/>
+    <configuration/>
+    <instance/>
+</ganttproject-options>
